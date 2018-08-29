@@ -1,3 +1,6 @@
+/*Mockup ai model using fuzzy string search. gui created using graphics.h /* 
+
+
 #include<process.h>
 #include<fstream.h>
 #include<stdio.h>
